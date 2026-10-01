@@ -1,7 +1,0 @@
-A, B = map(int, input().split())
-sum_of_num = print(A+B)
-product = print(A*B)
-quotient = print(A//B)
-remainder = print(A%B)
-difference = print(A-B)
-power = print(A**B)
